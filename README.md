@@ -9,7 +9,9 @@ _http://example.com/download/?xxxxxxxxxxxxxxxx_
 Those x are of course replaced with AlphaNumerical Characters ;)
 
 # Features
-- 
+- Upload your File
+- AlphaNumarical Download Link
+- Uses SQLite
 
 # ToDo
 - _setup.php_ for complete Setup with just one File
